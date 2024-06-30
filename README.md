@@ -25,31 +25,31 @@ gcc -o tic_tac_toe tic_tac_toe.c
 player
 Enter position (0-8): 0
 
- or | |
+ o | |
 -----------
- | |
+   | |
 -----------
- | |
+   | |
 computer
 
- or | | x
+ o | | x
 -----------
- | |
+   | |
 -----------
- | |
+   | |
 player
 Enter position (0-8): 4
 
- or | | x
+ o  | | x
 -----------
- | or |
+    |o|
 -----------
- | |
+    | |
 computer
 
- or | | x
+ o  | | x
 -----------
- | or |
+   |o|
 -----------
  x | |
 ...
