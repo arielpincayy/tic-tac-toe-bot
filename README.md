@@ -20,36 +20,6 @@ To compile the program, use the following command in the terminal:
 ```bash
 gcc -o tic_tac_toe tic_tac_toe.c
 ```
-##How to play
+##How to play:
 
-player
-Enter position (0-8): 0
-
- o | |
------------
-   | |
------------
-   | |
-computer
-
- o | | x
------------
-   | |
------------
-   | |
-player
-Enter position (0-8): 4
-
- o  | | x
------------
-    |o|
------------
-    | |
-computer
-
- o  | | x
------------
-   |o|
------------
- x | |
-...
+Enter position (0-8) after 'PLAYER' is printed
